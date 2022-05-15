@@ -6,6 +6,7 @@
 
 **Nombre del equipo:** O.K Dev ("Ocean Keepers Developers")
 
+![l1](https://user-images.githubusercontent.com/99226131/168499553-103440d3-ebdd-4185-86f5-f5dd8f650a02.png)
 
 **Integrantes:** 
 
