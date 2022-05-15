@@ -9,66 +9,99 @@
 
 .body__block{
     width: 100%;
-    height: 500vh;
+    height: 150vh;
     /* background: rgb(0,255,231); */
     background: linear-gradient(80deg, rgb(77, 219, 250) 0%, rgb(162, 238, 255) 35%, rgb(77, 219, 250) 100%);
 }
 
 .cabecera{
-    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     width: 100%;
-    margin: auto;
+    min-width: 300px;
     color: white;
     text-align: center;
+    padding-top: 10px;
     font-size: 90%;
     text-shadow: 1px 1px 5px black;
+    box-shadow: 1px 6px 5px rgba(57, 57, 57, 0.538);
     background-color: rgb(255, 255, 255);
     position: fixed;
+    border-radius: 0 0 1% 1%;
+
+    
 }
-    
-    
 
 .titulo{
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 2rem;
 }
  
 
 .block__container{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content:center;
     width: 100%;
-    height: 2rem;
-    box-shadow: 1px 6px 5px rgba(57, 57, 57, 0.538);
+    /* background-color: blue; */
+    padding: 10px 10px 10px 10px ;
 }
-    
+
     
 
+/* .links{
+    margin: 20px 0 20px 0;
+} */
+    
     
 
 a{
     text-decoration: none;
     font-weight: bolder;
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: rgb(255, 255, 255);
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 0 0 4px black;
+    padding: 0px 30px 10px 30px ;
+    
 }
+    
 
 .article__intro{
     margin: 0 auto;
     padding-top: 100px;
-    width: 90%;
+    width: 100%;
     height: auto;
     text-align: justify;
+    font-size: 1.2rem;
 }
 
 .article__container{
+    margin: 0 auto;
     background-color: rgba(255, 255, 255, 0.364);
     padding: 10px;
     border-radius: 2%;
+    max-width: 95%;
     min-width: 320px;
+    padding: 20px;
 }
+
+.sea__background{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    width: 100vw;
+    height: 500px;
+	object-fit:cover;
+    box-shadow: 1px 6px 5px rgba(57, 57, 57, 0.538);
+    margin-bottom: 40px;
+	
+}
+
+
+
+
 .encabezado{
     display: flex;
     justify-content: center;
