@@ -1,0 +1,24 @@
+.encabezado{
+    display: flex;
+    justify-content: center;
+}
+.menu
+ {
+    background: #e3f2fd;
+ }
+ .info-problematica {
+     border: 2px solid gray;
+ }
+ .info-problematica, section p {
+    text-align: justify;
+ }
+.imagen-1{
+    width: 28em;
+    height: 12em ;
+}
+.imagen-2 
+{
+    width: 120em;
+    height: 12em;
+    border-radius: 10px;
+}
