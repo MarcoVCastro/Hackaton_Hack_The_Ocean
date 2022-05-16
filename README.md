@@ -16,7 +16,7 @@ David Albino Granados.
 
 Erick Jaziel Ortiz.
 
-Daniel Díaz Ceballos
+Daniel Díaz Ceballos  launchx06594@innovaccion.mx
 
 
 **Propósito del proyecto:** Concientizar en las personas la importancia del fitoplancton en la vida de todos los seres vivos, informando sobre el papel vital que tienen en la producción de oxígeno del planeta.
